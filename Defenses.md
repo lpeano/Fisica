@@ -4,6 +4,8 @@
 
 Il **Tensore di Risoluzione** non è un'entità astratta, ma una modifica della metrica di Riemann basata sulla densità informativa. Definiamo la metrica ROF come:
 
+$$g_{\mu\nu}^{ROF} = e^{2\phi(\delta)} g_{\mu\nu}^{Einstein}$$
+
 Dove  è il potenziale di risoluzione legato alla grana di Planck. Il Tensore  emerge dalla variazione del campo informativo rispetto alla coordinata olografica:
 
 $$R_{f \mu\nu} \equiv \frac{\delta \mathcal{I}}{\delta x^\mu \delta x^\nu} \cdot \frac{1}{\rho_{Planck}}$$
