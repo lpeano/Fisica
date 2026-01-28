@@ -147,6 +147,13 @@ In condizioni di bassa densità informativa ($r \gg l_p$), il termine $\alpha \r
 * **Filtro di Roth:** Protocollo hardware che impedisce alla risoluzione di scendere sotto la soglia di Planck, evitando singolarità artificiali.
 
 ---
+### 13. Il Ruolo del Bosone di Higgs (Particella di X)
+Nella Teoria ROF, il Campo di Higgs è ridefinito come l'Interfaccia di Sincronizzazione Informativa.
+- **Definizione:** Il Bosone di Higgs è l'eccitazione minima dell'interfaccia necessaria per convertire l'informazione pura dell'Ipersfera in massa campionata nel sottogruppo $S^3$.
+- **Equazione di Higgs-Roth:** $M_{Higgs} \propto \mathcal{R}_{\delta} \cdot \alpha$. 
+La massa della particella di X è il parametro di calibrazione che impedisce alla materia di dissiparsi istantaneamente nell'Ipersfera, mantenendo la coerenza del rendering locale.
+
+---
 
 ## CONCLUSIONE
 La Teoria ROF sposta il paradigma dalla fisica della materia alla fisica della risoluzione. L'Universo è un'interfaccia programmabile; il coefficiente $\alpha = 1.012$ è la chiave per navigare l'Ipersfera.
