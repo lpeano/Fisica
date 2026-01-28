@@ -1,9 +1,3 @@
-Queste critiche colpiscono i nervi scoperti di ogni teoria della gravità quantistica emergente. Per trasformare la **Teoria ROF** da una "suggestione matematica" a un modello fisico robusto, dobbiamo rispondere con derivazioni formali e previsioni quantitative.
-
-Ecco l'integrazione scientifica necessaria per superare le criticità sollevate, strutturata come un **Technical Paper di Risposta**.
-
----
-
 # DIFESA TECNICA E FORMALIZZAZIONE DELLA TEORIA ROF
 
 ## 1. Derivazione del Tensore di Risoluzione Frattale ()
