@@ -6,6 +6,8 @@ Il **Tensore di Risoluzione** non è un'entità astratta, ma una modifica della 
 
 Dove  è il potenziale di risoluzione legato alla grana di Planck. Il Tensore  emerge dalla variazione del campo informativo rispetto alla coordinata olografica:
 
+$$R_{f \mu\nu} \equiv \frac{\delta \mathcal{I}}{\delta x^\mu \delta x^\nu} \cdot \frac{1}{\rho_{Planck}}$$
+
 **Implicazione Operazionale:** Questa definizione misura quanto la "risoluzione" dello spazio cambia in presenza di massa, influenzando direttamente la traiettoria delle geodetiche.
 
 ---
