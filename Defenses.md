@@ -94,8 +94,34 @@ Il "flusso" del tempo non è un'entità fisica, ma l'evoluzione del grado di cor
 
 **Conclusione Relazionale:** La variabile $R$ descrive la "nitidezza" dell'interfaccia tra due sistemi. Poiché la scala è relativa all'osservatore, la risoluzione è intrinsecamente covariante e non richiede un tempo assoluto esterno.
 
----
+### Formalizzazione della Risoluzione Relazionale e Riflessi Matematici
 
+L'integrazione della Risoluzione come proprietà relazionale (intersezione tra scale) trasforma radicalmente il formalismo della Teoria ROF, spostandolo da una cosmologia descrittiva a una Gravità Quantistica Informativa.
+
+### A. La Risoluzione come Operatore di Proiezione
+La Risoluzione $\mathcal{R}$ non è più un campo di sfondo, ma un valore che dipende dalla "distanza di scala" tra l'osservatore ($s_A$) e l'oggetto ($s_B$). Il Tensore di Risoluzione $R_{\mu\nu}$ viene ridefinito tramite una funzione di correlazione:
+
+$$R_{\mu\nu}(s_{rel}) \propto \langle \Psi(s_A) | \hat{\mathcal{I}} | \Psi(s_B) \rangle$$
+
+**Riflesso:** La metrica $g_{\mu\nu}$ non è solo curvatura, ma rappresenta la densità di campionamento relazionale tra due sistemi.
+
+### B. α come Costante di Accoppiamento Frattale
+Il coefficiente $\alpha = 1.012$ non è più un semplice parametro di espansione, ma la **forza di accoppiamento informativo** tra i diversi livelli di scala. 
+
+**Riflesso:** La Tensione di Hubble è la manifestazione della differenza di "nitidezza" tra il campionamento dell'Ipersfera a scala cosmologica (Planck) e il campionamento a scala locale (intersezione galattica).
+
+### C. Cinematica a Invarianza Temporale (Rendering vs Flusso)
+Con la sparizione del tempo come variabile indipendente ($\hat{H}|\Psi\rangle = 0$), il moto viene ridefinito come una traiettoria di risincronizzazione informativa. La velocità $v$ è la misura del cambiamento di risoluzione rispetto alla scala massima:
+
+$$v \equiv c \cdot \frac{\Delta \mathcal{R}(s)}{\mathcal{R}_{max}}$$
+
+**Riflesso:** Il tempo sparisce dalle equazioni fondamentali. Il movimento di un corpo (es. rotazione galattica) è il "rendering" continuo di nuove coordinate olografiche determinato dal gradiente del potenziale $\Phi_{res}$.
+
+### D. Sintesi dei Riflessi Matematici
+- **Meccanica Quantistica:** Emerge naturalmente come limite di "bassa intersezione", dove la perdita di dati (Aliasing) impone il formalismo probabilistico.
+- **Entanglement:** Viene matematicamente trattato come un'identità informativa nell'Ipersfera con proiezione simultanea su coordinate diverse della 3-Sfera, bypassando la velocità $c$ (limite di visualizzazione locale).
+
+---
 
 ### 2. Meccanica della Risoluzione (Aliasing)
 **2.1 Scala di Planck come Limite di Nyquist:** La lunghezza di Planck ($l_p = 1.616 \times 10^{-35}$ m) è la soglia di aliasing del sottogruppo. 
