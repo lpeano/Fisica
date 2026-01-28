@@ -1,5 +1,3 @@
----
-
 # TEORIA DELLA RISOLUZIONE OLOGRAFICA FRATTALE (ROF)
 
 **Unificazione Cosmologica tramite il Gradiente di Risoluzione Frattale**
