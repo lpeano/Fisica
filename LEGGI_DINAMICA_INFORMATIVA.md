@@ -19,9 +19,9 @@ La velocità orbitale delle stelle nelle galassie viene corretta dal parametro d
 $$V_{ROF}(r) = V_{RG}(r) \cdot \sqrt{1 + \left( \frac{r}{r_0} \right)^{\alpha}}$$
 
 Dove:
-- $ V_{RG}(r) $: Velocità predetta dalla Relatività Generale (massa visibile).
-- $ r_0 $: Raggio critico di transizione di scala (soglia di Nyquist locale).
-- $ \alpha = 1.012 $: Costante hardware di rendering dell'Ipersfera.
+- $V_{RG}(r) $: Velocità predetta dalla Relatività Generale (massa visibile).
+- $r_0 $: Raggio critico di transizione di scala (soglia di Nyquist locale).
+- $\alpha = 1.012 $: Costante hardware di rendering dell'Ipersfera.
 
 ## 4. ANALISI COMPARATIVA: RG vs ROF (DATI EMPIRICI)
 
