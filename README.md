@@ -93,7 +93,7 @@ $$G_{\mu\nu} + R_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}$$
 
 La gravità è un gradiente della **densità di potenziale**: la materia tende verso zone a risoluzione più alta.
 
-### 3.3 Il Numero Magico di Roth: $\alpha = 1.012$
+### 3.3 Il Numero Magico di ROF: $\alpha = 1.012$
 
 Ricavato dalla risoluzione della **Tensione di Hubble** (67.4 vs 73 km/s/Mpc):
 
@@ -111,7 +111,7 @@ Questo coefficiente dimostra che la risoluzione dell'Universo aumenta dell'1.2% 
 
 La discrepanza tra i dati di Planck (67.4 km/s/Mpc) e SH0ES (73.0 km/s/Mpc) è risolta tramite il gradiente di risoluzione frattale.
 
-**Equazione di Roth:** $H_0^{obs} = H_0^{local} \cdot \alpha^{\Delta z}$
+**Equazione di ROF:** $H_0^{obs} = H_0^{local} \cdot \alpha^{\Delta z}$
 
 Sostituendo i valori sperimentali:
 

@@ -1,5 +1,5 @@
 # CORPUS OMNIBUS: TEORIA DELLA RISOLUZIONE OLOGRAFICA FRATTALE (ROF ESTESA)
-**Autore:** Roth
+**Autore:** ROF
 **Data:** 28 Gennaio 2026
 **Versione:** 3.0 (Final Validation Edition)
 
@@ -25,7 +25,7 @@ $$c = l_p \cdot f_p = (1.616 \times 10^{-35} \text{ m}) \cdot (1.855 \times 10^{
 Unificazione tra gravità e informazione tramite il Tensore di Risoluzione ($R_{\mu\nu}$):
 $$G_{\mu\nu} + R_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
 
-### 2.2 Il Numero Magico di Roth ($\alpha$)
+### 2.2 Il Numero Magico di ROF ($\alpha$)
 Ricavato dalla Tensione di Hubble ($67.4$ vs $73$ km/s/Mpc), definisce il tasso di accrescimento della risoluzione universale (1.2% per unità di scala):
 $$\alpha = \left( \frac{H_{0(\text{SH0ES})}}{H_{0(\text{Planck})}} \right)^{1/7} \approx 1.012$$
 
@@ -55,7 +55,7 @@ $$\Phi_{res}(r) = -\frac{GM}{r}(1 + \alpha e^{-r/r_0})$$
 ### 4.1 Motore ROF e Salto Geometrico
 - **Propulsione:** Manipolazione locale di $\alpha$ per creare un **gradiente di potenziale metrico**. Spinta a inerzia zero.
 - **Salto di 15.000 anni luce:** Tempo di transito stimato in ~4 minuti tramite **transizione di fase geometrica**.
-- **Principio di Stabilità di Roth:** Protocollo hardware che impedisce alla risoluzione di scendere sotto la soglia di Planck ($l_p$).
+- **Principio di Stabilità di ROF:** Protocollo hardware che impedisce alla risoluzione di scendere sotto la soglia di Planck ($l_p$).
 
 ### 4.2 Rilevazione Sperimentale (Jitter di Risoluzione)
 Rilevazione della **fluttuazione di indeterminazione metrica** tramite correlazione spettrale di fase:

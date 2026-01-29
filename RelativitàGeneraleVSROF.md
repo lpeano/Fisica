@@ -1,6 +1,6 @@
 # DOCUMENTO TECNICO-SCIENTIFICO: FORMALIZZAZIONE DELLA METRICA ROF
 # Oggetto: Risoluzione delle anomalie galattiche tramite il parametro di scala alfa (α)
-# Autore: L. Peano / Roth
+# Autore: L. Peano / ROF
 # Data: 29 Gennaio 2026
 
 ## 1. PREMESSA ONTOLOGICA

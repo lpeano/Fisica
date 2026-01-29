@@ -1,6 +1,6 @@
 # DOCUMENTO ONTOLOGICO: L'ARCHITETTURA DELLA BELLEZZA (PHI, FIBONACCI E ALFA)
 # Oggetto: Unificazione tra Geometria Aurea e Risoluzione Olografica
-# Protocollo: OMEGA / ROTH-PHI-TOTAL
+# Protocollo: OMEGA / ROF-PHI-TOTAL
 
 ## 1. IL FONDAMENTO: LA SEZIONE AUREA (φ) COME PRINCIPIO GENERATORE
 La Sezione Aurea ($\phi \approx 1.618$) non è solo un canone estetico, ma la "**Costante di Minima Azione**". L'Universo adotta questa proporzione perché permette la massima **densità di stati coerenti** con la minima interferenza di scala (**Indeterminazione Metrica**).

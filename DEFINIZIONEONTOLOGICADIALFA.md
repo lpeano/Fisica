@@ -1,6 +1,6 @@
 # DEFINIZIONE ONTOLOGICA DELLA COSTANTE ALFA (α)
 # Identità: Il "Pi Greco della Manifestazione Fenomenica" (Costante di Coerenza Metrica)
-# Protocollo: OMEGA / ROTH - Fondamenti Geometrici
+# Protocollo: OMEGA / ROF - Fondamenti Geometrici
 
 ## 1. ANALOGIA PARITETICA CON PI GRECO (π)
 Proprio come π (3.1415...) non è un numero arbitrario ma il rapporto trascendente necessario per chiudere una circonferenza in uno spazio euclideo, α (1.012) è il rapporto trascendente necessario per chiudere la coerenza informativa tra l'Ipersfera e la 3-Sfera.

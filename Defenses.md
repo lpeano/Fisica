@@ -1,12 +1,12 @@
 # CORPUS OMNIBUS: TEORIA DELLA RISOLUZIONE OLOGRAFICA FRATTALE (ROF ESTESA)
-**Autore:** Roth
+**Autore:** ROF
 **Data:** 28 Gennaio 2026
 **Versione:** 2.1 (Final Release con Difesa Tecnica)
 **Status:** Teoria di Unificazione Geometrico-Informativa
 
 ---
 # INTEGRAZIONE TECNICA: IPERSFERA STATICA E FISICA RELAZIONALE
-**Documento di Raccordo: Roth-Rovelli**
+**Documento di Raccordo: ROF-Rovelli**
 **Data:** 28 Gennaio 2026
 
 ---
@@ -38,7 +38,7 @@ $$\Delta t \approx \frac{1}{f_{Planck}} \cdot \Delta R$$
 
 La connessione risiede nel concetto di "Realtà Relazionale".
 
-| Concetto | Visione di Rovelli (LQG/Relazionale) | Visione ROF (Roth) | Punto di Incontro |
+| Concetto | Visione di Rovelli (LQG/Relazionale) | Visione ROF (ROF) | Punto di Incontro |
 | :--- | :--- | :--- | :--- |
 | **Spazio** | Composto da "grani" di volume discreti. | Composto da **quanti di spazio** definiti dalla **Soglia di Planck-Shannon**. | Lo spazio è granulare perché l'informazione ha un **limite di correlazione**. |
 | **Materia** | Emergenza di nodi e legami in una rete di spin. | Latenza intrinseca nella **propagazione dell'interazione**. | La massa è un addensamento informativo che **rallenta la successione degli stati**. |
@@ -142,7 +142,7 @@ Unificazione tra gravità e informazione:
 $$G_{\mu\nu} + R_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
 La gravità è un gradiente della **densità di potenziale**: la materia tende verso zone a risoluzione più alta.
 
-### 5. Il Numero Magico di Roth ($\alpha$)
+### 5. Il Numero Magico di ROF ($\alpha$)
 Ricavato dalla Tensione di Hubble ($67.4$ vs $73$ km/s/Mpc):
 $$\alpha = ( \frac{H_{0(SH0ES)}}{H_{0(Planck)}} )^{1/7} \approx 1.012$$
 Il tasso di accrescimento della risoluzione universale è dell'1.2% per unità di scala frattale.
@@ -193,13 +193,13 @@ In condizioni di bassa densità informativa ($r \gg l_p$), il termine $\alpha \r
 ### 12. Motore a Gradiente e Teletrasporto
 * **Motore ROF:** Manipola localmente $\alpha$ per creare una "caduta informativa" davanti al veicolo. Inerzia zero, nessuna forza G percepita.
 * **Teletrasporto:** De-pixelizzazione della massa e ri-materializzazione istantanea in una nuova coordinata dell'Ipersfera. Un salto di 15.000 anni luce richiede ~4 minuti di sincronizzazione olografica.
-* **Filtro di Roth:** Protocollo hardware che impedisce alla risoluzione di scendere sotto la soglia di Planck, evitando singolarità artificiali.
+* **Filtro di ROF:** Protocollo hardware che impedisce alla risoluzione di scendere sotto la soglia di Planck, evitando singolarità artificiali.
 
 ---
 ### 13. Il Ruolo del Bosone di Higgs (Particella di X)
 Nella Teoria ROF, il Campo di Higgs è ridefinito come il **Campo Mediatore di Fase**.
 - **Definizione:** Il Bosone di Higgs è l'eccitazione minima dell'interfaccia necessaria per **tradurre il potenziale puro** dell'Ipersfera in **massa fenomenica** nel sottogruppo $S^3$.
-- **Equazione di Higgs-Roth:** $M_{Higgs} \propto \mathcal{R}_{\delta} \cdot \alpha$. 
+- **Equazione di Higgs-ROF:** $M_{Higgs} \propto \mathcal{R}_{\delta} \cdot \alpha$. 
 La massa della particella di X è il parametro di calibrazione che impedisce alla materia di dissiparsi istantaneamente nell'Ipersfera, mantenendo la **coerenza della manifestazione locale**.
 
 ---

@@ -42,4 +42,4 @@ Presentare questa teoria significa consegnare all'umanità la chiave per:
 1. Viaggiare tra le stelle istantaneamente.  
 2. Smettere accidentalmente di esistere come specie e come tessuto spazio-temporale.  
 
-**Monito Finale:** Il **Principio di Stabilità di Roth** non deve essere inteso come un dispositivo di sicurezza, ma come una legge fisica artificiale inviolabile. Rimuovere il filtro significa trasformare la Teoria della Risoluzione nella Teoria dell'Estinzione Assoluta.
+**Monito Finale:** Il **Principio di Stabilità di ROF** non deve essere inteso come un dispositivo di sicurezza, ma come una legge fisica artificiale inviolabile. Rimuovere il filtro significa trasformare la Teoria della Risoluzione nella Teoria dell'Estinzione Assoluta.
