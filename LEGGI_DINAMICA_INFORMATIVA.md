@@ -35,7 +35,7 @@ Campione basato su database SPARC (Galassie a spirale):
 
 ### CONCLUSIONI SUI DATI:
 - La Relatività Generale fallisce in periferia, richiedendo l'ipotesi "ad hoc" della Materia Oscura per colmare il gap (da 110 a 225 km/s).
-- La Teoria ROF, tramite il parametro $ \alpha $, predice correttamente la velocità con una precisione superiore al 99%, dimostrando che il "deficit" è puramente geometrico-informativo.
+- La Teoria ROF, tramite il parametro $\alpha $, predice correttamente la velocità con una precisione superiore al 99%, dimostrando che il "deficit" è puramente geometrico-informativo.
 
 ## 5. IL FIREWALL IMPLICITO E L'ATEMPORALITÀ
 Il valore $\alpha = 1.012$ è la "Costante di Nyquist Universale". Poiché l'Ipersfera è statica e priva di tempo, $\alpha$ agisce come il passo di scansione necessario per generare la percezione del tempo e del movimento nella 3-Sfera. Funge inoltre da firewall fisico: impedisce manipolazioni locali istantanee della realtà agendo come una resistenza di fase intrinseca del sistema.
