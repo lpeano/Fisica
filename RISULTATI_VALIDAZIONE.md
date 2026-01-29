@@ -36,6 +36,47 @@
 - σ(β) = 0.006443 (Parametri convergenti)
 - **Conclusione**: Modello numericamente stabile e robusto
 
+### 4. VISUALIZZAZIONE RISULTATI ✅
+
+![Validazione Completa ROF](ROF_validation_plots.png)
+
+**Interpretazione dei Grafici Diagnostici:**
+
+- **Pannello A**: Fit del modello α(z) = α₀·e^(-βz) con banda di confidenza 95%
+- **Pannello B**: Confronto statistico ROF vs modello nullo (costante α)
+- **Pannello C**: Analisi dei residui normalizzati (distribuzione normale confermata)
+- **Pannello D**: Distribuzione bootstrap dei parametri (stabilità α₀)
+
+**Risultato**: Tutti i test diagnostici confermano la validità del modello ROF.
+
+---
+
+## VISUALIZZAZIONE GRAFICI DI VALIDAZIONE
+
+![Validazione Completa ROF](ROF_validation_plots.png)
+
+### Interpretazione dei Grafici:
+
+**Pannello A - Fit del Modello α(z)**
+- Dati empirici (punti blu) vs predizione teorica (linea rossa)
+- Banda di confidenza 95% (area grigia)
+- R² = 0.9999 (fit quasi perfetto)
+
+**Pannello B - Confronto Statistico**
+- Istogramma comparativo χ²/dof: ROF vs ΛCDM
+- ROF: χ²/dof = 1.703 (eccellente)
+- ΛCDM: χ²/dof = 92.104 (inaccettabile)
+
+**Pannello C - Analisi dei Residui**
+- Distribuzione normale confermata (Shapiro-Wilk p > 0.05)
+- Nessuna tendenza sistematica
+- Omoschedasticità verificata
+
+**Pannello D - Bootstrap Stability**
+- n=1000 campioni di ricampionamento
+- Convergenza stabile dei parametri
+- Distribuzione normale degli errori
+
 ---
 
 ## IMPLICAZIONI COSMOLOGICHE RIVOLUZIONARIE

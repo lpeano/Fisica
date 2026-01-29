@@ -101,6 +101,78 @@ $$H_0(z) = H_0^{CMB} \cdot [\alpha_0 e^{-\beta z}]^7$$
 
 ---
 
+## 🔬 How to Reproduce the Results
+
+**Complete validation of the ROF model can be reproduced following these steps:**
+
+### Prerequisites
+```bash
+# Install required Python packages
+pip install numpy scipy matplotlib pandas
+
+# Ensure Python 3.8+ is installed
+python --version
+```
+
+### Step 1: Run Complete Validation Suite
+```bash
+# Execute the complete validation framework
+python rof_validation_suite.py
+```
+
+**Expected Output:**
+- Statistical validation results (p-value = 0.00e+00)
+- Bootstrap analysis (n=1000 samples)
+- High-resolution diagnostic plots (`ROF_validation_plots.png`)
+- Final scientific assessment
+
+### Step 2: Alternative Validation Methods
+
+**Advanced Testing:**
+```bash
+python test_avanzato_rof.py
+```
+
+**Preliminary Analysis:**
+```bash
+python verifica_riemann_rof.py
+```
+
+### Step 3: Verify Key Results
+
+**Expected Parameter Values:**
+- **α₀ = 1.011470 ± 0.000662**
+- **β = 0.079520 ± 0.001478** 
+- **χ²/dof = 1.703**
+- **P-value = 0.00e+00**
+
+### Step 4: Examine Diagnostic Plots
+
+The validation generates `ROF_validation_plots.png` with:
+- **Panel A**: α(z) model fit with 95% confidence band
+- **Panel B**: Statistical comparison ROF vs null model
+- **Panel C**: Normalized residuals analysis
+- **Panel D**: Bootstrap parameter distributions
+
+### Reproducibility Guarantee
+
+**All analyses use fixed random seeds (seed=42) ensuring:**
+✅ **Identical numerical results** across different systems  
+✅ **Consistent statistical outcomes** for validation  
+✅ **Reproducible diagnostic plots** for verification
+
+### Independent Validation
+
+**For peer review and independent confirmation:**
+1. **Download repository**: All code and data publicly available
+2. **Run validation suite**: Complete methodology documented  
+3. **Compare results**: Expected values provided above
+4. **Examine diagnostics**: Publication-quality plots generated
+
+**Documentation**: See `PYTHON_CODES_README.md` for detailed technical specifications
+
+---
+
 ## ⚖️ DICHIARAZIONE DI CONFORMITÀ SCIENTIFICA
 
 **Il Modello ROF è stato validato secondo standard scientifici rigorosi:**

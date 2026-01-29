@@ -17,7 +17,14 @@
 
 6. **test_avanzato_rof.py** - Validazione statistica avanzata
 7. **verifica_riemann_rof.py** - Test preliminari e analisi critiche
-8. **ROF_validation_plots.png** - Grafici diagnostici
+8. **rof_validation_suite.py** - Suite completa per pubblicazione scientifica
+9. **ROF_validation_plots.png** - Grafici diagnostici
+
+**Caratteristiche dei Codici Python:**
+- **Documentazione completa**: Docstring e commenti dettagliati
+- **Riproducibilità**: Seed fisso per risultati consistenti
+- **Standard scientifici**: Metodologie da peer review
+- **Grafici publication-ready**: Figure ad alta risoluzione (300 DPI)
 
 ---
 
