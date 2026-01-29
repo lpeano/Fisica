@@ -23,7 +23,8 @@ La Teoria ROF propone una soluzione radicale: queste non sono crisi separate, ma
 Per fondare la teoria su principi primi, partiamo da un'Azione che estende quella di Einstein-Hilbert. Si postula l'esistenza di un campo scalare fondamentale, il **Campo di Risoluzione $\Phi$**, la cui dinamica governa la "nitidezza" della metrica spaziotemporale.
 
 La densità Lagrangiana della teoria è:
-$$ \mathcal{L}_{ROF} = \sqrt{-g} \left[ \frac{c^4}{16\pi G} \left( g(\Phi)R \right) - \frac{1}{2} (\partial_\mu \Phi)^2 - V(\Phi) \right] + \mathcal{L}_M $$
+
+$$\mathcal{L}_{ROF} = \sqrt{-g} \left[ \frac{c^4}{16\pi G} \left( g(\Phi)R \right) - \frac{1}{2} (\partial_\mu \Phi)^2 - V(\Phi) \right] + \mathcal{L}_M $$
 
 Dove:
 *   **$R$** è lo scalare di Ricci, che rappresenta la curvatura dello spazio-tempo.
@@ -33,7 +34,9 @@ Dove:
 *   **$\\mathcal{L}_M$** è la Lagrangiana della materia standard.
 
 Applicando il Principio di Minima Azione ($\delta S = 0$) a questa Lagrangiana, si derivano le equazioni di campo. La variazione rispetto alla metrica $g_{\mu\nu}$ produce un'equazione di Einstein modificata:
+
 $$ G_{\mu\nu} + R_{\mu\nu}^{(\Phi)} = \frac{8\pi G}{c^4 g(\\Phi)} T_{\mu\nu}^{(\text{materia})} + T_{\mu\nu}^{(\\Phi)} $$
+
 Il termine $R_{\mu\nu}^{(\\Phi)}$, che chiamiamo **Tensore di Risoluzione**, emerge naturalmente dalla derivazione e non è più un'entità postulata. Esso descrive come la dinamica del campo $\\Phi$ contribuisca all'effetto gravitazionale totale.
 
 ---
@@ -43,10 +46,14 @@ La criticità di ogni teoria di gravità modificata risiede nella giustificazion
 
 1.  **Postulato Geometrico:** Si ipotizza che la nostra realtà a 4 dimensioni sia una "brana" immersa in uno spazio a dimensionalità superiore. In particolare, si postula l'esistenza di **7 dimensioni extra** compattificate in una geometria toroidale.
 2.  **Potenziale Emergente:** La geometria di queste dimensioni extra induce un potenziale periodico per il campo di risoluzione, della forma:
-    $$ V(\\Phi) \propto \cos^2\left(\frac{\\Phi}{\\Phi_0}\right) $$
+   
+    $$V(\\Phi) \propto \cos^2\left(\frac{\\Phi}{\\Phi_0}\right) $$
+    
     Questo potenziale presenta una serie di minimi stabili, che corrispondono ai livelli di "risoluzione" permessi e stabili per l'universo.
-3.  **Derivazione di `α`:** La transizione tra due minimi adiacenti del potenziale corrisponde a un cambiamento del valore del campo di risoluzione. Il rapporto tra i valori della funzione di accoppiamento $g(\\Phi)$ in questi minimi definisce una costante di scala. Per riprodurre i dati cosmologici, in particolare la Tensione di Hubble, si deriva la relazione:
-    $$ \frac{g(\\Phi_{n+1})}{g(\\Phi_n)} = \alpha^7 $$
+4.  **Derivazione di `α`:** La transizione tra due minimi adiacenti del potenziale corrisponde a un cambiamento del valore del campo di risoluzione. Il rapporto tra i valori della funzione di accoppiamento $g(\\Phi)$ in questi minimi definisce una costante di scala. Per riprodurre i dati cosmologici, in particolare la Tensione di Hubble, si deriva la relazione:
+   
+    $$\frac{g(\\Phi_{n+1})}{g(\\Phi_n)} = \alpha^7 $$
+    
     Dove $n$ e $n+1$ sono due minimi di potenziale consecutivi.
 
 La **radice settima** non è più un'operazione matematica arbitraria, ma un riflesso diretto del **numero di dimensioni extra** postulate. La costante `α` cessa di essere un parametro *ad hoc* e diventa una conseguenza della topologia fondamentale dell'universo.
@@ -68,9 +75,13 @@ Ontologicamente, `α` rappresenta il **rapporto di scala metrica** tra livelli f
 
 ### 5.1 Soluzione della Tensione di Hubble
 La discrepanza nel valore di $H_0$ viene spiegata come un effetto di scala. La costante `α` definisce la variazione della "nitidezza" metrica con la distanza. L'espansione è un accrescimento della scala metrica, non un moto fisico. La relazione che lega le misure locali e primordiali è:
+
 $$ H_{0(\text{local})} = H_{0(\text{primordial})} \cdot \alpha^7 $$
+
 Inserendo i valori osservati:
+
 $$ 73.0 \approx 67.4 \cdot (1.012)^7 $$
+
 Questa relazione risolve la tensione con un unico parametro.
 
 ### 5.2 Curve di Rotazione Galattiche (Spiegazione della "Materia Oscura")
@@ -85,6 +96,7 @@ Questo potenziale genera un'accelerazione aggiuntiva che spiega perfettamente le
 
 ### 5.3 Lensing Gravitazionale
 La teoria predice una deviazione misurabile rispetto alla Relatività Generale per il lensing gravitazionale, in quanto la luce non viene deflessa solo dalla massa, ma anche dal gradiente del campo di risoluzione. L'angolo di deflessione è modificato come segue:
+
 $$ \theta_{ROF} = \frac{4GM}{bc^2}\left(1 + \frac{\alpha}{r_0}\right) $$
 
 ---
