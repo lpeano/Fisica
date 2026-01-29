@@ -12,22 +12,25 @@
 3. **TeoriaROF_Unificata.md** - Mathematical formulation of the model
 4. **EXECUTIVE_SUMMARY_ROF.md** - Executive document for decision-makers
 5. **TEST_VALIDAZIONE_ROF.md** - Test protocol (completed)
+6. **DIMOSTRAZIONI_MATEMATICHE_ROF.md** - Rigorous derivations and theoretical foundations
 
 ### 🌐 **ENGLISH VERSIONS**
 
-6. **README_EN.md** - English overview of the model
-7. **TeoriaROF_Unificata_EN.md** - English theoretical document
-8. **EXECUTIVE_SUMMARY_ROF_EN.md** - English executive summary
-9. **REPOSITORY_STATUS_EN.md** - This document
-10. **RISULTATI_VALIDAZIONE_EN.md** - English validation results
-11. **TEST_VALIDAZIONE_ROF_EN.md** - English test protocol
+7. **README_EN.md** - English overview of the model
+8. **TeoriaROF_Unificata_EN.md** - English theoretical document
+9. **EXECUTIVE_SUMMARY_ROF_EN.md** - English executive summary
+10. **REPOSITORY_STATUS_EN.md** - This document
+11. **RISULTATI_VALIDAZIONE_EN.md** - English validation results
+12. **TEST_VALIDAZIONE_ROF_EN.md** - English test protocol
+13. **MATHEMATICAL_PROOFS_ROF_EN.md** - English mathematical proofs
 
 ### 🔬 **ANALYSIS CODES**
 
-12. **test_avanzato_rof.py** - Advanced statistical validation
-13. **verifica_riemann_rof.py** - Preliminary tests and critical analysis
-14. **rof_validation_suite.py** - Complete suite for scientific publication
-15. **ROF_validation_plots.png** - Diagnostic plots
+14. **test_avanzato_rof.py** - Advanced statistical validation
+15. **verifica_riemann_rof.py** - Preliminary tests and critical analysis
+16. **rof_validation_suite.py** - Complete suite for scientific publication
+17. **PYTHON_CODES_README.md** - Complete code documentation
+18. **ROF_validation_plots.png** - Diagnostic plots
 
 **Python Code Features:**
 - **Complete documentation**: Detailed docstrings and comments

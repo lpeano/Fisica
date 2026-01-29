@@ -12,13 +12,15 @@
 3. **TeoriaROF_Unificata.md** - Formulazione matematica del modello
 4. **EXECUTIVE_SUMMARY_ROF.md** - Documento esecutivo per decisori
 5. **TEST_VALIDAZIONE_ROF.md** - Protocollo di test (completato)
+6. **DIMOSTRAZIONI_MATEMATICHE_ROF.md** - Derivazioni rigorose e fondamenti teorici
 
 ### 🔬 **CODICI DI ANALISI**
 
-6. **test_avanzato_rof.py** - Validazione statistica avanzata
-7. **verifica_riemann_rof.py** - Test preliminari e analisi critiche
-8. **rof_validation_suite.py** - Suite completa per pubblicazione scientifica
-9. **ROF_validation_plots.png** - Grafici diagnostici
+14. **test_avanzato_rof.py** - Validazione statistica avanzata
+15. **verifica_riemann_rof.py** - Test preliminari e analisi critiche
+16. **rof_validation_suite.py** - Suite completa per pubblicazione scientifica
+17. **PYTHON_CODES_README.md** - Documentazione completa dei codici
+18. **ROF_validation_plots.png** - Grafici diagnostici
 
 **Caratteristiche dei Codici Python:**
 - **Documentazione completa**: Docstring e commenti dettagliati
