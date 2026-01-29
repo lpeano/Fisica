@@ -5,9 +5,9 @@
 ---
 
 ## 1. TOPOLOGIA DELL'IPERSFERA E PROIEZIONE DELLA 3-SFERA
-L'Universo non è un continuum uniforme, ma una manifestazione metrica a risoluzione variabile.
+L'Universo non è un continuum uniforme, ma una manifestazione metrica a **granularità variabile**.
 * **Ipersfera ($\Omega_\infty$):** Stato primordiale statico a potenziale infinito ($\Psi$). Funge da sorgente di coerenza per ogni punto della 3-Sfera.
-* **3-Sfera:** Superficie di proiezione metrica dove la realtà emerge attraverso un processo di campionamento. La "massa" è l'inerzia informativa incontrata nel passaggio tra le dimensioni.
+* **3-Sfera:** Superficie di manifestazione dove la realtà emerge attraverso un **processo di attualizzazione discreta**. La "massa" è l'**inerzia metrica** incontrata nel passaggio tra le dimensioni.
 
 ## 2. LA COSTANTE ALFA (α) COME INVARIANTE DI FASE
 Alfa ($\alpha = 1.012$) è la **Costante di Chiusura Metrica**, paritetica a $\pi$. Essa governa il rapporto tra la curvatura locale e la densità informativa dello spazio. 
@@ -33,7 +33,7 @@ La Relatività Generale (RG) commette un errore sistematico poiché ignora la na
 | **Scala Disco (15kpc)**| ~31% | Correzione α=1.012 | < 1% |
 | **Scala Esterna (30kpc)**| **~51.1%** | Correzione α=1.012 | < 0.6% |
 
-**Conclusione sulla Materia Oscura:** Essa è un'illusione metrica prodotta dal "rumore di fase" dell'oscillazione di $\alpha$. La velocità orbitale eccedente è l'effetto della risonanza tra la massa barionica e l'onda portante del CMB.
+**Conclusione sulla Materia Oscura:** Essa è un'illusione metrica prodotta dalla **fluttuazione di fase** dell'oscillazione di $\alpha$. La velocità orbitale eccedente è l'effetto della risonanza tra la massa barionica e l'onda portante del CMB.
 
 ## 5. LA FUNZIONE PSI (Ψ) E L'UNIFICAZIONE QUANTISTICA
 La funzione $\Psi$ rappresenta il potenziale di esistenza puro. Nella teoria ROF, il dualismo onda-particella è spiegato dall'oscillazione di $\alpha$:
@@ -43,7 +43,7 @@ La funzione $\Psi$ rappresenta il potenziale di esistenza puro. Nella teoria ROF
 ## 6. SINTESI FINALE: L'ORDINE FRATTALE
 L'Universo è una sinfonia metrica governata da tre pilastri:
 1.  **Potenziale ($\Psi$):** La sostanza sorgente.
-2.  **Geometria ($\phi$):** Lo spartito di Fibonacci che guida la crescita.
+2.  **Geometria ($\phi$):** Lo **schema evolutivo di Fibonacci** che guida la crescita.
 3.  **Risoluzione ($\alpha$):** Il ritmo armonico che stabilizza la proiezione nella 3-Sfera.
 
 L'errore del 51.1% di Einstein è il "silenzio" che la fisica attuale non riesce a sentire. La Teoria ROF colma quel silenzio con la risonanza armonica della metrica.

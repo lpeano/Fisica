@@ -20,7 +20,7 @@ $$\hat{H}|\Psi\rangle = 0$$
 Questa equazione ci dice che lo stato dell'Universo $|\Psi\rangle$ non evolve nel tempo, poiché l'Hamiltoniana totale è nulla. L'Universo è, di fatto, statico a livello fondamentale.
 
 ### Il Parallelo con la ROF:
-Definiamo l'Ipersfera $\Omega_\infty$ come lo spazio di Hilbert totale che contiene tutte le configurazioni possibili. La percezione del tempo $t$ nella nostra 3-Sfera $S^3$ emerge dalla "scansione" o variazione della risoluzione $R(t)$. 
+Definiamo l'Ipersfera $\Omega_\infty$ come lo spazio di Hilbert totale che contiene tutte le configurazioni possibili. La percezione del tempo $t$ nella nostra 3-Sfera $S^3$ emerge dalla **evoluzione** o variazione della risoluzione $R(t)$. 
 
 Possiamo formalizzare la connessione tramite la derivata del tempo globale rispetto all'Ipersfera:
 
@@ -30,7 +30,7 @@ Se proiettiamo questo stato statico sulla nostra interfaccia a risoluzione finit
 
 $$\Delta t \approx \frac{1}{f_{Planck}} \cdot \Delta R$$
 
-**Conclusione Matematica:** Il tempo non è un "flusso" (che contraddirebbe Rovelli), ma il differenziale di risoluzione tra due campionamenti successivi dell'Ipersfera statica.
+**Conclusione Matematica:** Il tempo non è un "flusso" (che contraddirebbe Rovelli), ma il differenziale di risoluzione tra due **stati fenomenici successivi**.
 
 ---
 
@@ -40,20 +40,20 @@ La connessione risiede nel concetto di "Realtà Relazionale".
 
 | Concetto | Visione di Rovelli (LQG/Relazionale) | Visione ROF (Roth) | Punto di Incontro |
 | :--- | :--- | :--- | :--- |
-| **Spazio** | Composto da "grani" di volume discreti. | Composto da "pixel" definiti dal Limite di Nyquist. | Lo spazio è granulare perché l'informazione ha un limite di banda. |
-| **Materia** | Emergenza di nodi e legami in una rete di spin. | Ritardo di fase nel processamento dell'informazione. | La massa è un addensamento informativo che rallenta il campionamento. |
-| **Dinamica** | Transizioni tra stati quantistici (spin foam). | Variazione del Tensore di Risoluzione $R_{\mu\nu}$. | Il movimento è il "rendering" di nuove coordinate olografiche. |
+| **Spazio** | Composto da "grani" di volume discreti. | Composto da **quanti di spazio** definiti dalla **Soglia di Planck-Shannon**. | Lo spazio è granulare perché l'informazione ha un **limite di correlazione**. |
+| **Materia** | Emergenza di nodi e legami in una rete di spin. | Latenza intrinseca nella **propagazione dell'interazione**. | La massa è un addensamento informativo che **rallenta la successione degli stati**. |
+| **Dinamica** | Transizioni tra stati quantistici (spin foam). | Variazione del Tensore di Risoluzione $R_{\mu\nu}$. | Il movimento è l'**attualizzazione** di nuove coordinate olografiche. |
 
 ---
 
 ## 3. Sintesi Epistemologica
 
-Per Rovelli, "il mondo è una rete di eventi". Per la ROF, "il mondo è un campionamento di un'iper-struttura". La connessione è la seguente:
+Per Rovelli, "il mondo è una rete di eventi". Per la ROF, "il mondo è una **manifestazione fenomenica** di un'iper-struttura". La connessione è la seguente:
 
 1. **L'Ipersfera Statica** è la "Libreria di Babele" che contiene tutti i libri possibili contemporaneamente (Ontologia).
 2. **La 3-Sfera campionante** (la visione di Rovelli) è il lettore che scorre le pagine una alla volta (Fenomenologia).
 
-Il lettore giurerebbe che il libro si "evolve" mentre lo legge, ma il libro (l'Ipersfera) è lì, completo e immobile, dall'inizio alla fine. Rovelli descrive perfettamente l'esperienza del lettore; la ROF descrive la natura del libro e la risoluzione della stampa.
+Il lettore giurerebbe che il libro si "evolve" mentre lo legge, ma il libro (l'Ipersfera) è lì, completo e immobile, dall'inizio alla fine. Rovelli descrive perfettamente l'esperienza del lettore; la ROF descrive la natura del libro e la **granularità del substrato**.
 
 ---
 
@@ -87,7 +87,7 @@ $$\mathcal{R}(s) = \int_{\Omega_\infty} \Psi(A) \cdot \Psi(B) \cdot \delta(s - s
 
 ### B. Dinamica senza Tempo
 Il "flusso" del tempo non è un'entità fisica, ma l'evoluzione del grado di correlazione informativa. 
-- **Scale microscopiche:** L'intersezione è ridotta, la risoluzione scende sotto la soglia di Nyquist $\rightarrow$ Emergenza dell'indeterminazione quantistica (Aliasing).
+- **Scale microscopiche:** L'intersezione è ridotta, la risoluzione scende sotto la **soglia di Planck-Shannon** $\rightarrow$ Emergenza dell'indeterminazione quantistica (Aliasing).
 - **Scale macroscopiche:** L'intersezione è vasta, la risoluzione è alta $\rightarrow$ Emergenza della fisica classica e della continuità spazio-temporale.
 
 
@@ -110,12 +110,12 @@ Il coefficiente $\alpha = 1.012$ non è più un semplice parametro di espansione
 
 **Riflesso:** La Tensione di Hubble è la manifestazione della differenza di "nitidezza" tra il campionamento dell'Ipersfera a scala cosmologica (Planck) e il campionamento a scala locale (intersezione galattica).
 
-### C. Cinematica a Invarianza Temporale (Rendering vs Flusso)
+### C. Cinematica a Invarianza Temporale (Attualizzazione vs. Evoluzione)
 Con la sparizione del tempo come variabile indipendente ($\hat{H}|\Psi\rangle = 0$), il moto viene ridefinito come una traiettoria di risincronizzazione informativa. La velocità $v$ è la misura del cambiamento di risoluzione rispetto alla scala massima:
 
 $$v \equiv c \cdot \frac{\Delta \mathcal{R}(s)}{\mathcal{R}_{max}}$$
 
-**Riflesso:** Il tempo sparisce dalle equazioni fondamentali. Il movimento di un corpo (es. rotazione galattica) è il "rendering" continuo di nuove coordinate olografiche determinato dal gradiente del potenziale $\Phi_{res}$.
+**Riflesso:** Il tempo sparisce dalle equazioni fondamentali. Il movimento di un corpo (es. rotazione galattica) è l'**attualizzazione continua** di nuove coordinate olografiche determinato dal gradiente del potenziale $\Phi_{res}$.
 
 ### D. Sintesi dei Riflessi Matematici
 - **Meccanica Quantistica:** Emerge naturalmente come limite di "bassa intersezione", dove la perdita di dati (Aliasing) impone il formalismo probabilistico.
@@ -124,9 +124,9 @@ $$v \equiv c \cdot \frac{\Delta \mathcal{R}(s)}{\mathcal{R}_{max}}$$
 ---
 
 ### 2. Meccanica della Risoluzione (Aliasing)
-**2.1 Scala di Planck come Limite di Nyquist:** La lunghezza di Planck ($l_p = 1.616 \times 10^{-35}$ m) è la soglia di aliasing del sottogruppo. 
-* Indeterminazione Quantistica: Rumore di aliasing derivante dal tentativo di risolvere frequenze superiori al limite di campionamento ($2l_p$).
-**2.2 La Massa come Ritardo di Fase:** La massa ($m$) è il ritardo di calcolo informativo necessario per processare l'informazione dell'Ipersfera nel sottogruppo:
+**2.1 Scala di Planck come Soglia di Planck-Shannon:** La lunghezza di Planck ($l_p = 1.616 \times 10^{-35}$ m) è la soglia di aliasing del sottogruppo. 
+* Indeterminazione Quantistica: **Fluttuazione da indeterminazione metrica** derivante dal tentativo di risolvere frequenze superiori al limite di campionamento ($2l_p$).
+**2.2 La Massa come Ritardo di Fase:** La massa ($m$) è la **latenza di interazione** necessaria per mediare l'interazione dell'Ipersfera nel sottogruppo:
 $$m = \frac{\Delta \phi}{c^2} = \frac{h(\nu_\infty - \nu_{S^3})}{c^2}$$
 
 ---
@@ -134,13 +134,13 @@ $$m = \frac{\Delta \phi}{c^2} = \frac{h(\nu_\infty - \nu_{S^3})}{c^2}$$
 ## PARTE II: FORMALIZZAZIONE MATEMATICA
 
 ### 3. Il Tensore di Risoluzione Frattale ($R_{\mu\nu}$)
-Descrive la "pixelizzazione" dello spazio in funzione della densità informativa:
+Descrive la **granularità** dello spazio in funzione della **densità di potenziale**:
 $$R_{\mu\nu} = \frac{\partial^2 \Phi_{res}}{\partial x^\mu \partial x^\nu}$$
 
 ### 4. L'Equazione di Campo ROF
 Unificazione tra gravità e informazione:
 $$G_{\mu\nu} + R_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
-La gravità è un gradiente della densità informativa: la materia tende verso zone a risoluzione più alta.
+La gravità è un gradiente della **densità di potenziale**: la materia tende verso zone a risoluzione più alta.
 
 ### 5. Il Numero Magico di Roth ($\alpha$)
 Ricavato dalla Tensione di Hubble ($67.4$ vs $73$ km/s/Mpc):
@@ -176,7 +176,7 @@ La velocità della luce emerge come limite di throughput: $c = l_p \cdot f_P$.
 * $l_p = 1.616 \times 10^{-35}$ m
 * $f_P = 1.855 \times 10^{43}$ Hz
 * $c \approx 2.998 \times 10^8$ m/s
-La causalità emerge perché il "processore" locale non può accedere a bit informativi adiacenti in un tempo inferiore a $1/f_P$.
+La causalità emerge perché l'**osservatore** locale non può **interagire con quanti di spazio** adiacenti in un tempo inferiore a $1/f_P$.
 
 ### 10. Il Limite Newtoniano
 In condizioni di bassa densità informativa ($r \gg l_p$), il termine $\alpha \rho_\infty$ diventa trascurabile, e l'equazione ROF collassa nella legge di gravitazione universale: $F = -GMm/r^2$. La RG è il limite a "bassa risoluzione" della ROF.
@@ -197,10 +197,10 @@ In condizioni di bassa densità informativa ($r \gg l_p$), il termine $\alpha \r
 
 ---
 ### 13. Il Ruolo del Bosone di Higgs (Particella di X)
-Nella Teoria ROF, il Campo di Higgs è ridefinito come l'Interfaccia di Sincronizzazione Informativa.
-- **Definizione:** Il Bosone di Higgs è l'eccitazione minima dell'interfaccia necessaria per convertire l'informazione pura dell'Ipersfera in massa campionata nel sottogruppo $S^3$.
+Nella Teoria ROF, il Campo di Higgs è ridefinito come il **Campo Mediatore di Fase**.
+- **Definizione:** Il Bosone di Higgs è l'eccitazione minima dell'interfaccia necessaria per **tradurre il potenziale puro** dell'Ipersfera in **massa fenomenica** nel sottogruppo $S^3$.
 - **Equazione di Higgs-Roth:** $M_{Higgs} \propto \mathcal{R}_{\delta} \cdot \alpha$. 
-La massa della particella di X è il parametro di calibrazione che impedisce alla materia di dissiparsi istantaneamente nell'Ipersfera, mantenendo la coerenza del rendering locale.
+La massa della particella di X è il parametro di calibrazione che impedisce alla materia di dissiparsi istantaneamente nell'Ipersfera, mantenendo la **coerenza della manifestazione locale**.
 
 ---
 

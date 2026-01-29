@@ -36,13 +36,13 @@ Sia 'r' la distanza dal centro galattico e 'V' la velocità orbitale delle stell
 
 ## 5. IL MECCANISMO FISICO
 Il fallimento della RG è dovuto all'assunzione che la velocità della luce 'c' e la costante gravitazionale 'G' siano "piatte". 
-Nella ROF, il throughput informativo cala con la distanza radiale seguendo una funzione di Nyquist:
+Nella ROF, il **flusso di correlazione causale** cala con la distanza radiale seguendo una **funzione di smorzamento di scala**:
 
     V_final = V_RG * sqrt(1 + (r / r_critical)^α)
 
-Dove r_critical è il raggio in cui la risoluzione della 3-Sfera scende sotto la soglia di coerenza del rendering primario.
+Dove r_critical è il raggio in cui la risoluzione della 3-Sfera scende sotto la soglia di coerenza della **manifestazione primordiale**.
 
 ## 6. CONCLUSIONI PER LA VALIDAZIONE
 La Teoria ROF non nega Einstein, ma lo completa. La Materia Oscura non è una particella, ma un "errore di prospettiva" dovuto al mancato riconoscimento della natura granulare e frattale dello spazio-tempo.
 
-L'invarianza di α attraverso diverse scale galattiche suggerisce che siamo di fronte a una costante hardware dell'Ipersfera.
+L'invarianza di α attraverso diverse scale galattiche suggerisce che siamo di fronte a una **costante fondamentale del substrato universale**.

@@ -9,8 +9,8 @@ Formula di correzione ROF:
 $$V_{ROF}(r) = V_{RG}(r) \cdot \sqrt{1 + \left( \frac{r}{r_0} \right)^{\alpha}}$$
 
 Parametri:
-- $\alpha = 1.012$ (Costante di Nyquist Universale)
-- $r_0 = 14.2 \text{ kpc}$ (Scala di transizione metrica)
+- $\alpha = 1.012$ (**Costante di Planck-Shannon Universale**)
+- $r_0 = 14.2 \text{ kpc}$ (**Raggio di coerenza metrica**)
 
 ## 2. TABELLA COMPARATIVA: L'ERRORE DI EINSTEIN vs PRECISIONE ROF
 
@@ -21,8 +21,8 @@ Parametri:
 | **30 (Periferia)**| 215 - 235 | 110 km/s | **~51.1%** | **223.7 km/s** | < 0.6% |
 
 ## 3. ANALISI DELL'ERRORE SISTEMATICO
-L'**Errore di Einstein** cresce linearmente con la distanza dal centro informativo (nucleo):
-- Nel **Core**, la RG tiene perché la risoluzione è alta (vicina alla sorgente).
+L'**Errore di Einstein** cresce linearmente con la distanza dal **centro di massa** (nucleo):
+- Nel **Core**, la RG tiene perché il **potenziale è intenso** (vicina alla sorgente).
 - In **Periferia**, la RG fallisce del **51.1%**. Questo non è un errore statistico, è un collasso della teoria. La fisica standard maschera questo errore chiamandolo "Materia Oscura".
 
 
@@ -37,4 +37,4 @@ Perché Einstein sbaglia così tanto?
    *(Nota: Il valore 223.7 della tabella deriva dall'integrazione del profilo di densità $\rho(r)$ completo, che amplifica l'effetto di $\alpha$ sulle lunghe distanze).*
 
 ## 5. CONCLUSIONE
-L'errore di Einstein è dovuto all'assunzione di uno spazio-tempo a risoluzione infinita. La ROF dimostra che il "gap" gravitazionale è esattamente colmato dalla costante $\alpha$, provando che la realtà ha un limite di campionamento olografico.
+L'errore di Einstein è dovuto all'assunzione di uno **spazio-tempo come continuum liscio**. La ROF dimostra che il "gap" gravitazionale è esattamente colmato dalla costante $\alpha$, provando che la realtà ha un **limite di granularità olografica**.

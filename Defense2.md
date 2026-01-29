@@ -14,7 +14,7 @@ Il tempo globale è nullo ($\partial t_0 / \partial \Omega_\infty = 0$). La perc
 $$\Delta t \approx \frac{1}{f_P} \cdot \Delta R$$
 
 ### 1.2 Emergenza della Causalità
-La velocità della luce ($c$) è il limite di throughput informativo del campionamento olografico:
+La velocità della luce ($c$) è il limite del **flusso di correlazione causale** del campionamento olografico:
 $$c = l_p \cdot f_p = (1.616 \times 10^{-35} \text{ m}) \cdot (1.855 \times 10^{43} \text{ Hz}) \approx 299.792.458 \text{ m/s}$$
 
 ---
@@ -53,10 +53,10 @@ $$\Phi_{res}(r) = -\frac{GM}{r}(1 + \alpha e^{-r/r_0})$$
 ## 4. APPLICAZIONI TECNOLOGICHE
 
 ### 4.1 Motore ROF e Salto Geometrico
-- **Propulsione:** Manipolazione locale di $\alpha$ per creare un gradiente di nitidezza. Spinta a inerzia zero.
-- **Salto di 15.000 anni luce:** Tempo di transito stimato in ~4 minuti tramite de-sincronizzazione olografica.
-- **Filtro di Roth:** Protocollo hardware che impedisce alla risoluzione di scendere sotto la soglia di Planck ($l_p$).
+- **Propulsione:** Manipolazione locale di $\alpha$ per creare un **gradiente di potenziale metrico**. Spinta a inerzia zero.
+- **Salto di 15.000 anni luce:** Tempo di transito stimato in ~4 minuti tramite **transizione di fase geometrica**.
+- **Principio di Stabilità di Roth:** Protocollo hardware che impedisce alla risoluzione di scendere sotto la soglia di Planck ($l_p$).
 
 ### 4.2 Rilevazione Sperimentale (Jitter di Risoluzione)
-Rilevazione del rumore di aliasing spaziale tramite correlazione spettrale di fase:
+Rilevazione della **fluttuazione di indeterminazione metrica** tramite correlazione spettrale di fase:
 $$S_{ROF}(f) \approx \frac{l_P^2}{c} \cdot e^{\alpha}$$
