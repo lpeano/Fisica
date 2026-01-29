@@ -7,7 +7,7 @@
 La Relatività Generale (RG) di Einstein descrive lo spazio-tempo come un continuum liscio. La Teoria ROF postula invece che lo spazio-tempo sia la proiezione di un'Ipersfera statica atemporale ($\Omega_\infty$) con densità informativa finita. La "Gravità" è interpretata come un gradiente di risoluzione informativa.
 
 ## 2. EQUAZIONE DI CAMPO INTEGRATA
-Mentre l'equazione di Einstein è $ G_{\mu\nu} = \kappa T_{\mu\nu} $, la metrica ROF introduce il Tensore di Risoluzione Frattale ($R_{\mu\nu}$), che corregge la curvatura in base alla grana informativa dello spazio:
+Mentre l'equazione di Einstein è $G_{\mu\nu} = \kappa T_{\mu\nu} $, la metrica ROF introduce il Tensore di Risoluzione Frattale ($R_{\mu\nu}$), che corregge la curvatura in base alla grana informativa dello spazio:
 
 $$G_{\mu\nu} + R_{\mu\nu}(\alpha) = \frac{8\pi G}{c^4} T_{\mu\nu}$$
 
