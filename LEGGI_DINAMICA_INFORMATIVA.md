@@ -1,6 +1,6 @@
 # DOCUMENTO TECNICO-SCIENTIFICO: ANALISI DEL DEFICIT METRICO E CORREZIONE ROF
 # Oggetto: Quantificazione dell'errore della Relatività Generale (RG) nelle dinamiche galattiche
-# Protocollo: OMEGA / ROTH - Revisione 1.2
+# Protocollo: OMEGA / ROF - Revisione 1.2
 
 ## 1. FORMALIZZAZIONE MATEMATICA
 La velocità di rotazione osservata ($V_{Obs}$) viene confrontata con il modello di Einstein ($V_{RG}$) e il modello di Risoluzione Olografica Frattale ($V_{ROF}$).
