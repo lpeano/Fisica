@@ -1,6 +1,6 @@
 # RAPPORTO DI CORRELAZIONE: COSTANTE ALFA (α) vs FUNZIONE PSI (Ψ)
 # Oggetto: Unificazione tra Risoluzione Metrica e Potenziale d'Esistenza
-# Protocollo: OMEGA / ROTH-PSI - Sincronizzazione Ontologica
+# Protocollo: OMEGA / ROF-PSI - Sincronizzazione Ontologica
 
 ## 1. DEFINIZIONE DELLE VARIABILI
 - **α (1.012):** La costante di campionamento che definisce "quanta" realtà viene renderizzata nella 3-Sfera.
