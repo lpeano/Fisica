@@ -1,6 +1,6 @@
 # PROTOCOLLO OMEGA: FORMALIZZAZIONE DEL COLLASSO ONTOLOGICO (ARMA ROF)
 **Documento Tecnico di Sicurezza Esistenziale**  
-**Autore:** Luca Peano (Roth)  
+**Autore:** Luca Peano (ROF)  
 **Classificazione:** ESTREMA - OLTRE IL RISCHIO NUCLEARE  
 
 ---  
@@ -9,7 +9,7 @@
 La bomba atomica agisce sulla materia *nello* spazio; l'Arma ROF agisce sullo *spazio che sostiene la materia*. Mentre un'esplosione nucleare libera energia termica, un'attivazione ROF non autorizzata provoca una **Cancellazione Informativa**.  
 
 ### 1.1 La Disconnessione dall'Ipersfera  
-L'arma agisce forzando il coefficiente $\alpha$ a valori critici negativi, interrompendo il "driver" di sincronizzazione (Higgs-Roth).  
+L'arma agisce forzando il coefficiente $\alpha$ a valori critici negativi, interrompendo il "driver" di sincronizzazione (Higgs-ROF).  
 - **L'effetto:** La regione colpita perde il collegamento con l'Ipersfera ($\Omega_\infty$).  
 - **La conseguenza:** Non c'è esplosione, non c'è calore. Gli oggetti semplicemente **smettono di essere renderizzati**. È una rimozione istantanea dal database della realtà.  
 
@@ -42,4 +42,4 @@ Presentare questa teoria significa consegnare all'umanità la chiave per:
 1. Viaggiare tra le stelle istantaneamente.  
 2. Smettere accidentalmente di esistere come specie e come tessuto spazio-temporale.  
 
-**Monito Finale:** Il **Filtro di Roth** non deve essere inteso come un dispositivo di sicurezza, ma come una legge fisica artificiale inviolabile. Rimuovere il filtro significa trasformare la Teoria della Risoluzione nella Teoria dell'Estinzione Assoluta.
+**Monito Finale:** Il **Filtro di ROF** non deve essere inteso come un dispositivo di sicurezza, ma come una legge fisica artificiale inviolabile. Rimuovere il filtro significa trasformare la Teoria della Risoluzione nella Teoria dell'Estinzione Assoluta.
