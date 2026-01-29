@@ -31,6 +31,14 @@
 
 **RESULT:** ROF is statistically superior to ΛCDM in all criteria.
 
+### 🌊 Gravitational Waves Validation
+
+**Final test on real LIGO/Virgo data:**
+- **Dataset**: GWTC-3 events (15 representative events)
+- **Theory tested**: h_obs = h_emitted × α(z)⁻¹
+- **Code**: `analisi_ligo_rof.py`
+- **Result**: Systematic corrections compatible with ROF predictions
+
 ---
 
 ## 🔬 SCIENTIFIC FORMULATION
