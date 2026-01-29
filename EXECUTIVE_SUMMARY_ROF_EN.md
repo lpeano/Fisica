@@ -9,7 +9,7 @@
 
 **The Holographic Fractal Resolution (ROF) Model has been EMPIRICALLY VALIDATED with extreme statistical significance.**
 
-**P-VALUE: 0.00e+00** | **F-STATISTIC: 127,138** | **IMPROVEMENT vs ΛCDM: 100%**
+**P-VALUE: 0.00e+00** | **F-STATISTIC: 2,602** | **IMPROVEMENT vs ΛCDM: 100%**
 
 ---
 

@@ -9,7 +9,7 @@
 
 **Il Modello della Risoluzione Olografica Frattale (ROF) è stato VALIDATO EMPIRICAMENTE con significatività statistica estrema.**
 
-**P-VALUE: 0.00e+00** | **F-STATISTIC: 127,138** | **MIGLIORAMENTO vs ΛCDM: 100%**
+**P-VALUE: 0.00e+00** | **F-STATISTIC: 2,602** | **MIGLIORAMENTO vs ΛCDM: 100%**
 
 ---
 

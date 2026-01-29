@@ -25,7 +25,7 @@ $$\alpha(z) = \alpha_0 \cdot e^{-\beta z}$$
 ### 1.2 Risultati Ottenuti ✓
 - **Correlazione preliminare**: r = -0.9720  
 - **Test avanzato**: P-value = 0.00e+00
-- **F-statistic**: 127,138 (evidenza schiacciante)
+- **F-statistic**: 2,602 (evidenza schiacciante)
 
 ### 1.3 Status ✅
 **IPOTESI CONFERMATA** - La variazione α(z) è statisticamente dimostrata

@@ -68,7 +68,7 @@ $$ds^2 = \alpha(z)^2 \left[ dt^2 - a(t)^2 \left( \frac{dr^2}{1-kr^2} + r^2 d\Ome
 
 ### Statistical Validation
 - **P-value**: 0.00e+00 (extreme significance)
-- **F-statistic**: 127,138 (crushing evidence)
+- **F-statistic**: 2,602 (crushing evidence)
 - **χ² improvement**: 100% vs ΛCDM
 - **Bootstrap test**: n=1000 confirms stability
 

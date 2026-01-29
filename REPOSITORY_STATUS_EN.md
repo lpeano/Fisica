@@ -66,7 +66,7 @@
 - **98.15% improvement** χ² vs ΛCDM
 - **99.87% improvement** AIC vs ΛCDM
 - **99.79% improvement** BIC vs ΛCDM
-- **F-statistic**: 127,138 (overwhelming evidence)
+- **F-statistic**: 2,602 (overwhelming evidence)
 
 ### 🔬 **ROBUSTNESS CONFIRMED**
 - **Bootstrap analysis**: n=1000 samples stable

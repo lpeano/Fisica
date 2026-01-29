@@ -140,8 +140,9 @@ class ROFValidator:
         bic_rof = chi2_rof + np.log(n) * 2
         bic_lcdm = chi2_lcdm + np.log(n) * 1
         
-        # F-test per significatività del miglioramento
-        f_stat = ((chi2_lcdm - chi2_rof) / 1) / (chi2_rof / (n - 2))
+        # F-test per significatività del miglioramento (CORREZIONE BUG)
+        chi2_rof_total = chi2_rof * (n - 2)  # Ricostruisco χ² totale ROF
+        f_stat = ((chi2_lcdm - chi2_rof_total) / 1) / (chi2_rof_total / (n - 2))
         p_value = 1 - stats.f.cdf(f_stat, 1, n - 2)
         
         print(f"\n📈 Model Comparison Results:")

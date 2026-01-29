@@ -25,7 +25,7 @@ $$\alpha(z) = \alpha_0 \cdot e^{-\beta z}$$
 ### 1.2 Results Obtained ✓
 - **Preliminary correlation**: r = -0.9720  
 - **Advanced test**: P-value = 0.00e+00
-- **F-statistic**: 127,138 (overwhelming evidence)
+- **F-statistic**: 2,602 (overwhelming evidence)
 
 ### 1.3 Status ✅
 **HYPOTHESIS CONFIRMED** - α(z) variation is statistically proven
@@ -89,7 +89,7 @@ $$\Phi_{ROF}(r) = \Phi_{Newton}(r)[1 + \alpha \cdot f(r/r_0)]$$
 | Log-likelihood | -0.85 | -2254.6 | **99.96%** |
 
 ### 5.2 Statistical Tests ✓
-- **F-test**: F = 127,138, p < 0.001 (ROF significantly better)
+- **F-test**: F = 2,602, p < 0.001 (ROF significantly better)
 - **Likelihood ratio**: LR = 4507.5 (overwhelming evidence for ROF)
 - **Information criteria**: All favor ROF unanimously
 

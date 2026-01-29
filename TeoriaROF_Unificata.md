@@ -17,7 +17,7 @@ Il Modello ROF (Risoluzione Olografica Frattale) è stato sottoposto a validazio
 **RISULTATO DEFINITIVO**: Il modello ROF è **STATISTICAMENTE SUPERIORE** a ΛCDM
 
 - **Significatività**: p-value = 0.00e+00 (massima possibile)
-- **F-statistic**: 127,138 (evidenza schiacciante)
+- **F-statistic**: 2,602 (evidenza schiacciante)
 - **Miglioramento χ²**: 100.0% rispetto a ΛCDM
 - **Test di robustezza**: Bootstrap n=1000 conferma stabilità
 

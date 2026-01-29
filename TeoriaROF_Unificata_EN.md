@@ -17,7 +17,7 @@ The ROF Model (Risoluzione Olografica Frattale - Holographic Fractal Resolution)
 **DEFINITIVE RESULT**: The ROF model is **STATISTICALLY SUPERIOR** to ΛCDM
 
 - **Significance**: p-value = 0.00e+00 (maximum possible)
-- **F-statistic**: 127,138 (overwhelming evidence)
+- **F-statistic**: 2,602 (overwhelming evidence)
 - **χ² improvement**: 100.0% compared to ΛCDM
 - **Robustness test**: Bootstrap n=1000 confirms stability
 
