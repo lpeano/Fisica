@@ -1,0 +1,108 @@
+{
+    // LaTeX Workshop Configuration per ROF Physical Review D
+    "latex-workshop.latex.tools": [
+        {
+            "name": "pdflatex",
+            "command": "pdflatex",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "-pdf",
+                "%DOCFILE%"
+            ],
+            "env": {}
+        },
+        {
+            "name": "bibtex", 
+            "command": "bibtex",
+            "args": [
+                "%DOCFILE%"
+            ],
+            "env": {}
+        },
+        {
+            "name": "pdflatex-revtex",
+            "command": "pdflatex",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode", 
+                "-file-line-error",
+                "-shell-escape",
+                "%DOCFILE%"
+            ],
+            "env": {}
+        }
+    ],
+
+    // Recipes specifiche per REVTeX 4.2 (Physical Review D)
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "ROF: pdflatex → bibtex → pdflatex × 2",
+            "tools": [
+                "pdflatex-revtex",
+                "bibtex", 
+                "pdflatex-revtex",
+                "pdflatex-revtex"
+            ]
+        },
+        {
+            "name": "ROF: pdflatex (quick)",
+            "tools": [
+                "pdflatex-revtex"
+            ]
+        }
+    ],
+
+    // Auto-build on save (essenziale per workflow rapido)
+    "latex-workshop.latex.autoBuild.run": "onSave",
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    
+    // File da pulire automaticamente
+    "latex-workshop.latex.clean.fileTypes": [
+        "*.aux", "*.bbl", "*.blg", "*.idx", "*.ind", 
+        "*.lof", "*.lot", "*.out", "*.toc", "*.acn", 
+        "*.acr", "*.alg", "*.glg", "*.glo", "*.gls", 
+        "*.fls", "*.log", "*.fdb_latexmk", "*.synctex.gz",
+        "*.figlist", "*.makefile", "*.fls", "*.figlist"
+    ],
+
+    // Viewer integrato (PDF sync)
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.view.pdf.zoom": "page-width",
+    "latex-workshop.view.pdf.scrollMode": 1,
+
+    // Gestione errori avanzata
+    "latex-workshop.latex.option.maxPrintLine.enabled": true,
+    "latex-workshop.message.error.show": true,
+    "latex-workshop.message.warning.show": true,
+
+    // Auto-installazione pacchetti MiKTeX
+    "latex-workshop.latex.option.env": {
+        "MIKTEX_ENABLEINSTALLER": "t"
+    },
+
+    // Intellisense per LaTeX
+    "latex-workshop.intellisense.package.enabled": true,
+    "latex-workshop.intellisense.unimathsymbols.enabled": true,
+
+    // Formattazione LaTeX
+    "latex-workshop.formatting.latex": "latexindent",
+    "latex-workshop.formatting.bibtex": "bibtex-tidy",
+
+    // Configurazioni specifiche per REVTeX
+    "latex-workshop.latex.magic.args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+    ],
+
+    // Hotkeys per compilazione rapida
+    "latex-workshop.bind.enter.key": true,
+    "latex-workshop.bind.altKeymap.enabled": true,
+
+    // Output pulito
+    "latex-workshop.latex.outputDir": "./output",
+    "latex-workshop.latex.outDir": "./output"
+}
